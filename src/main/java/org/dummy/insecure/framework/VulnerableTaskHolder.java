@@ -27,7 +27,7 @@ public class VulnerableTaskHolder implements Serializable {
   
   // Test commit
   public Object toString2() {
-	  return null;
+	  return "test";
   }
 
   @Override
